@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire",
+      "state" : {
+        "branch" : "master",
+        "revision" : "51a2d5077567b257ac1f227b6883c4ff1d7a491d"
+      }
+    },
+    {
+      "identity" : "alertkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sparrowcode/AlertKit",
+      "state" : {
+        "revision" : "1da133b6f630f4e11d141ce5c05d09b68200278e",
+        "version" : "5.0.1"
+      }
+    },
+    {
+      "identity" : "settingsicongenerator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sparrowcode/SettingsIconGenerator",
+      "state" : {
+        "branch" : "main",
+        "revision" : "74d366d80eeb56dae380795ac658bffe9f5e8f2c"
+      }
+    }
+  ],
+  "version" : 2
+}
