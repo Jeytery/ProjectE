@@ -6,7 +6,7 @@
 - Coordinators
 - "MVVM"
 
-[in production] version 1
+**in production** version 1
 - store
 - package games
 - main menu functionality
