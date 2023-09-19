@@ -13,8 +13,9 @@
 
 verson 1.1
 
-rest: 
+store: 
 - search in store
+- new way store package in git repository
 
 packages:
 - new preferences for packages (randomize_words: bool, dont_change_question_order: bool)
@@ -24,3 +25,4 @@ game:
 - redisigned tablet
 - random crush after package play
 - save the anwer if the time gone
+
