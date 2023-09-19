@@ -21,6 +21,6 @@ packages:
 - show questions and answers in package 
 
 game:
-- bigger tablet
+- redisigned tablet
 - random crush after package play
 - save the anwer if the time gone
