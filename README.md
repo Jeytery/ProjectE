@@ -2,18 +2,25 @@
 
 - SwiftUI
 - UIKit navigation
-- UIKit support
+- UIKit for support
 - Coordinators
 - "MVVM"
 
-**in production** version 1
+**in app store** version 1
 - store
 - package games
 - main menu functionality
 
 verson 1.1
+
+rest: 
+- search in store
+
+packages:
+- new preferences for packages (randomize_words: bool, dont_change_question_order: bool)
+- show questions and answers in package 
+
+game:
 - bigger tablet
-- new preferences for packages
-- search in store 
 - random crush after package play
 - save the anwer if the time gone
