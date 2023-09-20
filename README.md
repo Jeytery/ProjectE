@@ -18,7 +18,10 @@ store:
   - new way store package in git repository
 
 packages:
-  - new preferences for packages (randomize_words: bool, dont_change_question_order: bool)
+  - new preferences for packages
+    - randomize_words: bool,
+    - dont_change_question_order: bool
+    - allow_user_to_view_result_in_task
   - show questions and answers in package 
 
 game:
